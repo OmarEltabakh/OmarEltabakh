@@ -1,16 +1,32 @@
-### Hi Im Omar Mohamed 👋
+# Hello there, I'm Omar Mohamed! 👋
 
-<!--
-**OmarEltabakh/OmarEltabakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer based in Cairo. I specialize in building user interfaces with React.js. Constantly learning and exploring new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎓 Graduated in Computer Science from  Higher Technological Institute
+- 🌱 Currently learning Next.js and TypeScript
+- 💻 Love coding, problem-solving, and building cool stuff
+- 📚 Interested in UX/UI design and web accessibility
+
+## Skills
+
+- JavaScript, HTML, CSS, bootstrap  , tailwind  , sass
+- React.js, Redux , Material-UI 
+- Git, npm
+-  Responsive Design, RESTful APIs
+
+## Projects
+
+- [Project 1](link) - Description
+- [Project 2](link) - Description
+- [Project 3](link) - Description
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/omar-mohamed-eltabakh-084933295/
+- Email:omar.mohamed.eltabakh1@gmail.com
+- Portfolio: https://omarmohamedeltabakh.github.io/My-Personal-Website/
+
+Feel free to reach out if you want to collaborate, have any questions, or just want to connect! 😊
