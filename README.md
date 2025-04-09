@@ -25,8 +25,7 @@ I'm a passionate Frontend Developer based in Cairo. I specialize in building use
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/omar-mohamed-eltabakh-084933295/
-- Email:omar.mohamed.eltabakh1@gmail.com
+- Email:omar.mohamed.tawfik1@gmail.com
 - Portfolio:https://omareltabakh.github.io/Portfolio/
 
 Feel free to reach out if you want to collaborate, have any questions, or just want to connect! 😊
